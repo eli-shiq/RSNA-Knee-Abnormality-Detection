@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data / Kaggle
+data/
+outputs/
+.kaggle_build/
+*.dcm
+*.zip
+kaggle.json
+.DS_Store
